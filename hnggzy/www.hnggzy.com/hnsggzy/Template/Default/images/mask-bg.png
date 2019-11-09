@@ -1,0 +1,38 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	出错页面
+</title><link href="../../../css/Styles.css" rel="stylesheet" type="text/css" /></head>
+<body>
+    <form name="form1" method="post" action="./mask-bg.png?404%3bhttp%3a%2f%2fwww.hnggzy.com%3a80%2fhnsggzy%2fTemplate%2fDefault%2fimages%2fmask-bg.png" id="form1">
+<div>
+<input type="hidden" name="__CSRFTOKEN" id="__CSRFTOKEN" value="/wEFJGQ5NGU4ZDljLTNjYmEtNDRhNy1iM2VjLWY2NmU0YjFjNTQ5MQ==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="X8gdwuTpqlfE4mf7Ebr7czJPKN+bMadysESuonmqV/iCTQsRhrd6TQ9f7ErWvWtn9VseHkgwA0HF/Tg5cHWoBdS0dFa78bkUB8XFrtEul6TYamFIK2U3puoPIWLTlTSJP8MBHBUpbi3R+DFp//aOn1d+itB0U4V7bRVVdsD/0ElcDT43cyYhG36Vhe+MvbFORcY7ubedEEQ/2yxPksfrwcECgIc=" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8B8F6288" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+    <p style="margin:30px;">
+    <table border="0" align="center">
+        <tr>
+            <td height="400" width="200" class="Error" align="center" valign="middle">
+                
+            </td>
+            <td>
+                <p class="ErrorTitle">
+                    抱歉，系统发生了错误！</p>
+                <br />
+                <p id="P_Content" class="ErrorContent">未知参数。</p>
+            </td>
+        </tr>
+    </table>
+    </p>
+    </form>
+</body>
+</html>
